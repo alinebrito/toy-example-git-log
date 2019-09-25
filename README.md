@@ -5,7 +5,32 @@
 
 
 ```
-* commit 4c8cc83ed9b1cc899b7eaef91590ed95c8873b6f (HEAD -> master, origin/master)
+*   commit 7522595131365525f95c1f0faeeb2e35692bde78 (HEAD -> master, origin/master)
+|\  Merge: c4a8195 1d0af5c
+| | Author: alinebrito <nbrito.aline@gmail.com>
+| | Date:   Wed Sep 25 08:48:15 2019 -0300
+| | 
+| |     Branch master: Merge branch 'branch_2' to 'master'
+| | 
+| * commit 1d0af5ceaa1c64aca1a8e7c8266fca06f0dbd607 (origin/branch_2, branch_2)
+| | Author: alinebrito <nbrito.aline@gmail.com>
+| | Date:   Wed Sep 25 08:45:40 2019 -0300
+| | 
+| |     Branch branch_2 - Adding packageF/ClassF1
+| | 
+* | commit c4a81951d9167315c27d72aabca16c25f30680dc
+|/  Author: alinebrito <nbrito.aline@gmail.com>
+|   Date:   Wed Sep 25 08:47:38 2019 -0300
+|   
+|       Branch master - Adding packageG/ClassG1
+| 
+* commit 1f65165c43bd3e506d5e30a5833ae6fa7b4a8b8d
+| Author: Aline Brito <nbrito.aline@gmail.com>
+| Date:   Tue Sep 24 20:03:44 2019 -0300
+| 
+|     Create README.md
+| 
+* commit 4c8cc83ed9b1cc899b7eaef91590ed95c8873b6f
 | Author: alinebrito <nbrito.aline@gmail.com>
 | Date:   Tue Sep 24 19:44:59 2019 -0300
 | 
@@ -71,5 +96,6 @@
   Date:   Tue Sep 24 17:42:46 2019 -0300
   
       Initial commit
+
       
  ```
